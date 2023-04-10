@@ -29,3 +29,30 @@ The project is set up to use `postcss-cli` to process your CSS files. You can ad
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+
+
+**You Can Increment The Number**
+
+**Before**
+![Screenshot (19)](https://user-images.githubusercontent.com/88494743/230815565-fc378b20-89b7-4f6a-8b35-e44e6939e5a2.png)
+
+**After**
+
+
+![Screenshot (20)](https://user-images.githubusercontent.com/88494743/230815569-41b4016d-da8d-4cff-a362-3da1c353ba2e.png)
+
+**Before**
+
+![Screenshot (23)](https://user-images.githubusercontent.com/88494743/230815570-ad3cbd8e-588d-4f92-a8bf-c537ac646db4.png)
+
+
+**After**
+
+
+![Screenshot (24)](https://user-images.githubusercontent.com/88494743/230815571-bf3feab2-10b9-468a-bff8-6c544758a4af.png)
+
+**You can Reset the Number to Zero**
+
+
+![Screenshot (25)](https://user-images.githubusercontent.com/88494743/230815573-c4838dbd-e14f-4237-9a55-d76185e3e07c.png)
+
